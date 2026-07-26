@@ -80,15 +80,6 @@ Every ping returned a successful reply with 0% packet loss.
 | Assuming green link light = full connectivity | Confusing physical layer with network layer | Always confirm with `ping`, not just visual cues |
 | Forgetting to set Static mode before entering an IP | DHCP is selected by default | Switch to Static first, then fill in the address fields |
 
-## 📖 Full Write-Up
-
-I wrote a full walkthrough of this project on Dev.to, covering the reasoning behind each step in more depth: *(add your Dev.to article link here)*
-
-## 🔭 What's Next
-
-Planning to extend this lab by adding a router into the topology and experimenting with inter-subnet routing between two separate networks.
-
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/almahmudkhalif/)
